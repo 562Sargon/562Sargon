@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @562Sargon 
-- 👀 I’m interested in building mobile API's/end-to-end lifecycle managment/Full-stack
+- 👀 I’m interested in building mobile API's
 - 🌱 I’m currently learning HTML5,CSS3, Java, Python, 
 
 <!---
